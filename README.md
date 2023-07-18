@@ -1,4 +1,4 @@
-<h1 align="center">Odin Etch a Sketch</h1>
+<h1 align="center">Etch-A-Sketch Odin Project</h1>
 
 <p align="center">This is a web project made with HTML, CSS and JavaScript for studying purposes</p>
 
@@ -14,7 +14,11 @@ The following tools have been used in the project:
 - [VS Code](https://code.visualstudio.com)
 
 ---
+### Project directions:
+The following directions were used to create the project.
 
+- [Odin Etch-A-Sketch Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
+---
 ### Author
 
 Made by Felipe Augusto 
