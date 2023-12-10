@@ -25,6 +25,6 @@ Made by Felipe Augusto
 
 ---
 
-#### [Live Server](https://felipeabg.github.io/EtchASketch-ODIN/)
+#### [Live Server](https://felipeabg.github.io/etch-a-sketch)
 
  
